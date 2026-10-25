@@ -1,0 +1,227 @@
+[
+  {
+    "job_id": "01a172fd-b9cd-7603-9f51-f6754e962bad",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:16:33+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a172fd-dd4f-7180-9ac2-204e9545bbc7",
+    "label": "team_1 | MODEL 1: cand (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:16:42+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17303-2b27-75d8-83f3-07fc87125967",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:22:30+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17303-61e2-76d2-94b4-f908542d451e",
+    "label": "team_1 | MODEL 1: cand (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:22:44+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17304-24a7-727b-a851-4867b275598b",
+    "label": "team_1 | MODEL 2: model 3 (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:23:33+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17304-5a16-71fc-b2ab-db73c2a093be",
+    "label": "team_1 | MODEL 2: model 3 (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:23:47+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a1730c-c109-7403-bf23-5d87470ac3f4",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:32:58+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a1730d-1e2f-7343-b536-c2830ebcbabe",
+    "label": "team_1 | MODEL 1: cand (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:33:22+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17310-1112-76d9-9d4a-1da87fce0b61",
+    "label": "team_1 | MODEL 2: 20-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:36:35+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17310-4747-7038-961c-47acd587b6b3",
+    "label": "team_1 | MODEL 2: 20-gate (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:36:49+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17310-67f2-764c-8c46-02126863dbf9",
+    "label": "team_1 | MODEL 3: 20-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:36:57+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17310-9f93-7093-aa42-e4e8c15eafd6",
+    "label": "team_1 | MODEL 3: 20-gate (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:37:12+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17312-bb2b-7023-a2c1-6f6c6a37797f",
+    "label": "team_1 | MODEL 2: 29-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:39:29+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17312-f1f8-753f-a483-91a2ca7d64c7",
+    "label": "team_1 | MODEL 2: 29-gate (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:39:43+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17316-223e-7305-a39a-7b9282043525",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:43:12+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17316-5a84-7328-87e7-4ec6d34e9130",
+    "label": "team_1 | MODEL 1: cand (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:43:27+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a1731e-146f-73e6-8666-3a22a7f007d6",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:51:53+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a1731e-6160-7331-9036-ac9ce2c7829f",
+    "label": "team_1 | MODEL 1: cand (optimized with teammate model)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:52:13+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17323-8b29-774a-a3c5-841451916f33",
+    "label": "team_1 | MODEL 1: cand (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:57:51+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17323-bbab-7329-98f8-9d3aeefd3397",
+    "label": "team_1 | MODEL 1: cand (optimized, phase-aware)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:58:04+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17324-3914-757c-a402-692016668c8d",
+    "label": "team_1 | MODEL 2: 20-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:58:36+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17324-bb9d-7784-8bcb-90fea5d92d7f",
+    "label": "team_1 | MODEL 3: 20-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:59:09+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17324-e9e8-75cc-b932-f51b3514756b",
+    "label": "team_1 | MODEL 3: 20-gate (optimized, phase-aware)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:59:21+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17325-4f1d-74cf-94d4-1d49d21aedcb",
+    "label": "team_1 | MODEL 2: 29-gate (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T12:59:47+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17325-8019-7241-ae73-2d047914e00c",
+    "label": "team_1 | MODEL 2: 29-gate (optimized, phase-aware)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T13:00:00+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
+  }
+]
