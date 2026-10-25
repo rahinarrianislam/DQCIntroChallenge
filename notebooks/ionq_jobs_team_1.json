@@ -223,5 +223,14 @@
     "submitted_at": "2026-10-25T13:00:00+00:00",
     "team": "team_1",
     "noise_model": "forte-1"
+  },
+  {
+    "job_id": "01a17369-046b-7471-9ea2-8b584b7e15e7",
+    "label": "team_1 | ideal Toffoli (original)",
+    "backend": "ionq_simulator",
+    "shots": 1024,
+    "submitted_at": "2026-10-25T14:13:44+00:00",
+    "team": "team_1",
+    "noise_model": "forte-1"
   }
 ]

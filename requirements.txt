@@ -6,4 +6,8 @@ matplotlib==3.11.2
 numpy==2.5.4
 pylatexenc==2.10
 jupyter==1.1.1
+# Our additions: the IonQ cells (simulator and Forte-1 QPU) and the COBYLA optimizer cells.
+# scipy (COBYLA) comes with qiskit.
+qiskit-ionq==1.1.1
+qiskit-algorithms==0.4.0
 -e .
