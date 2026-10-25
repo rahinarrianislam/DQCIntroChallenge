@@ -1,0 +1,50 @@
+[
+  {
+    "input": "000",
+    "expected_output": "000",
+    "queue_id": 233,
+    "shots": 128
+  },
+  {
+    "input": "001",
+    "expected_output": "001",
+    "queue_id": 234,
+    "shots": 128
+  },
+  {
+    "input": "010",
+    "expected_output": "010",
+    "queue_id": 235,
+    "shots": 128
+  },
+  {
+    "input": "011",
+    "expected_output": "011",
+    "queue_id": 236,
+    "shots": 128
+  },
+  {
+    "input": "100",
+    "expected_output": "100",
+    "queue_id": 237,
+    "shots": 128
+  },
+  {
+    "input": "101",
+    "expected_output": "101",
+    "queue_id": 238,
+    "shots": 128
+  },
+  {
+    "input": "110",
+    "expected_output": "111",
+    "queue_id": 239,
+    "shots": 128
+  },
+  {
+    "input": "111",
+    "expected_output": "110",
+    "queue_id": 240,
+    "shots": 128
+  }
+]

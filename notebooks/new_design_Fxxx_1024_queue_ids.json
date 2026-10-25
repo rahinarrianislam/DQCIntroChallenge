@@ -1,0 +1,98 @@
+[
+  {
+    "input": "000",
+    "axes": "XXX",
+    "queue_id": 193,
+    "shots": 64
+  },
+  {
+    "input": "001",
+    "axes": "XZX",
+    "queue_id": 194,
+    "shots": 64
+  },
+  {
+    "input": "001",
+    "axes": "ZXX",
+    "queue_id": 195,
+    "shots": 64
+  },
+  {
+    "input": "001",
+    "axes": "YYX",
+    "queue_id": 196,
+    "shots": 64
+  },
+  {
+    "input": "010",
+    "axes": "XXX",
+    "queue_id": 197,
+    "shots": 64
+  },
+  {
+    "input": "011",
+    "axes": "XZX",
+    "queue_id": 198,
+    "shots": 64
+  },
+  {
+    "input": "011",
+    "axes": "ZXX",
+    "queue_id": 199,
+    "shots": 64
+  },
+  {
+    "input": "011",
+    "axes": "YYX",
+    "queue_id": 200,
+    "shots": 64
+  },
+  {
+    "input": "100",
+    "axes": "XXX",
+    "queue_id": 201,
+    "shots": 64
+  },
+  {
+    "input": "101",
+    "axes": "XZX",
+    "queue_id": 202,
+    "shots": 64
+  },
+  {
+    "input": "101",
+    "axes": "ZXX",
+    "queue_id": 203,
+    "shots": 64
+  },
+  {
+    "input": "101",
+    "axes": "YYX",
+    "queue_id": 204,
+    "shots": 64
+  },
+  {
+    "input": "110",
+    "axes": "XXX",
+    "queue_id": 205,
+    "shots": 64
+  },
+  {
+    "input": "111",
+    "axes": "XZX",
+    "queue_id": 206,
+    "shots": 64
+  },
+  {
+    "input": "111",
+    "axes": "ZXX",
+    "queue_id": 207,
+    "shots": 64
+  },
+  {
+    "input": "111",
+    "axes": "YYX",
+    "queue_id": 208,
+    "shots": 64
+  }
+]
